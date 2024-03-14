@@ -8,7 +8,7 @@ To install Bakta, follow these simple steps:
 ```bash
 cona create -n bakta -y
 conda activate bakta 
-conda install -c conda-forge -c bioconda bakta# bakta
+conda install -c conda-forge -c bioconda bakta
 ```
 
 ## Download the Database
